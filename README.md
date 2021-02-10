@@ -28,7 +28,7 @@
 
 ![Alt text](autocorrelation.PNG) 
 
-![Alt text](partial_autocorrelation1.png) 
+![Alt text](partial_autocorrelation11.PNG) 
 
 ### 8. Determine oders using AIC and BIC
 
